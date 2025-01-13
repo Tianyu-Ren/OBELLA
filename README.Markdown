@@ -8,7 +8,7 @@
 
 ### **Data Access**
 
-The OBEDATA is available for download here: [OBEDATA](https://qubstudentcloud-my.sharepoint.com/:f:/g/personal/40414335_ads_qub_ac_uk/EqZxN0F8UERGmjijE5NaNUQBo2T_uaE7pCtRkWGBVdHQQg?e=veyKoo)
+The OBEDATA is available for download here: WILL BE RELEASED AFTER THE DOUBLE-BLIND REVIEW
 
 ### Format
 
@@ -63,7 +63,7 @@ Considering the high training cost, we provide a pre-trained OBELLA checkpoint. 
 
 ### **Download Links**
 
-**OBELLA Checkpoint and Factoid Wiki Indices:** [CKPT_&_FACTOIDWIKI_INDEX](https://qubstudentcloud-my.sharepoint.com/:f:/g/personal/40414335_ads_qub_ac_uk/EnIjcWAWDD1MgxUBeSRK5tkBsbIGEr16bZrapvQ1ZaqlCg?e=qgnaC7) 
+**OBELLA Checkpoint and Factoid Wiki Indices:** WILL BE RELEASED AFTER THE DOUBLE-BLIND REVIEW
 
 ### **Running the Evaluation**
 
