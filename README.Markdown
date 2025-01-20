@@ -2,7 +2,7 @@
 
 
 
-## OBEDATA for OBELLA Training
+## OBELLA for OBELLAM Training
 
 
 
