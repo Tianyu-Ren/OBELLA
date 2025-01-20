@@ -8,7 +8,7 @@
 
 ### **Data Access**
 
-The OBEDATA is available for download here: WILL BE RELEASED AFTER THE DOUBLE-BLIND REVIEW
+Our OBELLA is available for download here: WILL BE RELEASED AFTER THE DOUBLE-BLIND REVIEW
 
 ### Format
 
@@ -28,7 +28,7 @@ All dataset files are in JSON or JSONL format. Below is an example entry:
 
 **Note** that label of each example adheres to the mapping: `{0: 'Correct', 1: Neurtal, 2: 'Incorrect'}`
 
-### **Training OBELLA on OBEDATA**
+### **Training OBELLAM on OBELLA**
 
 #### Version Information:
 
@@ -57,17 +57,17 @@ OBELLA-TRAIN/
 
 Simply run `source run.sh` to train a supervised ODQA evaluation metric using **OBEDATA-L**.
 
-## Using OBELLA for Open-Domain Question Answering Evaluation
+## Using OBELLAM for Open-Domain Question Answering Evaluation
 
-Considering the high training cost, we provide a pre-trained OBELLA checkpoint. You can test OBELLA’s performance on the EVOUNA benchmark using the provided evaluation script.
+Considering the high training cost, we provide a pre-trained OBELLAM checkpoint. You can test OBELLA’s performance on the EVOUNA benchmark using the provided evaluation script.
 
 ### **Download Links**
 
-**OBELLA Checkpoint and Factoid Wiki Indices:** WILL BE RELEASED AFTER THE DOUBLE-BLIND REVIEW
+**OBELLAM Checkpoint and Factoid Wiki Indices:** WILL BE RELEASED AFTER THE DOUBLE-BLIND REVIEW
 
 ### **Running the Evaluation**
 
-Execute the following command to evaluate OBELLA on the EVOUNA benchmark:
+Execute the following command to evaluate OBELLAM on the EVOUNA benchmark:
 
 ```bash
 python OBELLA-EVAL/evaluation.py
