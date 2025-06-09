@@ -8,7 +8,7 @@
 
 ### **Data Access**
 
-Our OBELLA is available for download here: WILL BE RELEASED AFTER THE DOUBLE-BLIND REVIEW
+Our OBELLA is available for download [here](https://qubstudentcloud-my.sharepoint.com/:f:/g/personal/40414335_ads_qub_ac_uk/EqZxN0F8UERGmjijE5NaNUQBo2T_uaE7pCtRkWGBVdHQQg?e=B8Fq60)
 
 ### Format
 
@@ -63,7 +63,7 @@ Considering the high training cost, we provide a pre-trained OBELLAM checkpoint.
 
 ### **Download Links**
 
-**OBELLAM Checkpoint and Factoid Wiki Indices:** WILL BE RELEASED AFTER THE DOUBLE-BLIND REVIEW
+**OBELLAM Checkpoint and Factoid Wiki Indices:** [link](https://qubstudentcloud-my.sharepoint.com/:f:/g/personal/40414335_ads_qub_ac_uk/EnIjcWAWDD1MgxUBeSRK5tkBsbIGEr16bZrapvQ1ZaqlCg?e=CcV6Sp)
 
 ### **Running the Evaluation**
 
